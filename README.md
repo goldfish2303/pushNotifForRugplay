@@ -15,6 +15,6 @@ copy the topic you noted down earlier, then subcribe to it
 i remember it is `python script.py` isnt it?
 # How to circumvent ntfy.sh quota
 i estimated that you may exhaute your quota on sending notifs
-don't worry, just route your server's internet connection through tor network
+don't worry, just route your server's internet connection through tor network
 
 tor network always reset your ip every 15 minutes, so do your quota!
