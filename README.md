@@ -12,9 +12,8 @@ download ntfy.sh to your phone, and/or go to ntfy.sh on your desktop
 ## 5. Subcribe to the topic
 copy the topic you noted down earlier, then subcribe to it
 ## 6. Run the script
-i remember it is `python script.py` isnt it?
+i remember it is `python script.py` isn't it?
 # How to circumvent ntfy.sh quota
-i estimated that you may exhaute your quota on sending notifs
-don't worry, just route your server's internet connection through tor network
+i estimated that you may exhaute your quota on sending notifs. don't worry, just route your server's internet connection through tor network
 
 tor network always reset your ip every 15 minutes, so do your quota!
