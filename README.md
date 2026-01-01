@@ -6,7 +6,7 @@ get linux, either WSL (Windows) or Termux (Android) works fine
 ## 2. Install packages
 install python and... uh i forgot. ts script was 7 months ago. maybe ask gemini to get instructions
 ## 3. Edit the variables
-get Nano for your Linux, edit some variables to your preferences (i suppose even a vibe-coder know where to edit). remember to edit the topic name
+get Nano for your Linux, edit some variables to your preferences (i suppose even a vibe-coder know where to edit). remember to edit the topic name (note this down)
 ## 4. Get ntfy.sh
 download ntfy.sh to your phone, and/or go to ntfy.sh on your desktop
 ## 5. Subcribe to the topic
